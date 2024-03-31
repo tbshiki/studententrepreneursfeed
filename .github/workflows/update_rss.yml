@@ -30,6 +30,11 @@ jobs:
       run: |
         git config --global user.email "info@tbshiki.com"
         git config --global user.name "tbshiki"
-        git add -A
-        git commit -m "Update RSS feed" || exit 0
-        git push
+        git add .
+          # 変更があるかチェックします
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update RSS feed"
+            git push
+          fi
