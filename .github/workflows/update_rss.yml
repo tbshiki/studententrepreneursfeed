@@ -2,8 +2,7 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # 毎日のUTC 00:00に実行します。
-    - cron:  '0 0 * * *'
+    - cron:  '0 0 * * *'  # 毎日のUTC 00:00に実行します。
   workflow_dispatch:
 
 jobs:
@@ -12,6 +11,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.ACTIONS_PAT }}
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -31,8 +32,7 @@ jobs:
         git config --global user.email "info@tbshiki.com"
         git config --global user.name "tbshiki"
         git add .
-          # 変更があるかチェックします
-          if git diff --staged --quiet; then
+          if git diff --staged --quiet; then  # 変更をチェックしてあればコミット
             echo "No changes to commit."
           else
             git commit -m "Update RSS feed"
