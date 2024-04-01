@@ -14,6 +14,8 @@ def generate_rss_feed():
         "https://prtimes.jp/index.rdf",
         "https://b.hatena.ne.jp/hotentry/all.rss",
         "https://b.hatena.ne.jp/hotentry/knowledge.rss",
+        "https://b.hatena.ne.jp/q/%E5%AD%A6%E7%94%9F?mode=rss&sort=hot",
+        "https://thebridge.jp/feed",
     ]
 
     # 全てのフィードエントリを保持するリスト
