@@ -12,7 +12,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        ref: update-rss
         token: ${{ secrets.GitHubActionsToken }}
 
     - name: Set up Python
@@ -37,5 +36,5 @@ jobs:
           echo "No changes to commit."
         else
           git commit -m "Update RSS feed"
-          git push origin update-rss
+          git push
         fi
