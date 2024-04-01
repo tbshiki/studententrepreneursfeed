@@ -36,7 +36,7 @@ def generate_rss_feed():
     # 新しいRSSフィードを初期化
     fg = FeedGenerator()
     fg.title("Student Entrepreneurs Feed")
-    fg.link(href="https://tbshiki.github.io/wp-do-rss/", rel="alternate")
+    fg.link(href="https://tbshiki.github.io/studententrepreneursfeed/", rel="alternate")
     fg.description(
         "This FEED is a compilation of student entrepreneurship information. We wish you success."
     )
