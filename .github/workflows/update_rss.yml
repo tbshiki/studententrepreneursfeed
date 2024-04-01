@@ -12,6 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
+        ref: update-rss
         token: ${{ secrets.GitHubActionsToken }}
 
     - name: Set up Python
@@ -32,9 +33,9 @@ jobs:
         git config --global user.email "info@tbshiki.com"
         git config --global user.name "tbshiki"
         git add .
-          if git diff --staged --quiet; then  # 変更をチェックしてあればコミット
-            echo "No changes to commit."
-          else
-            git commit -m "Update RSS feed"
-            git push
-          fi
+        if git diff --staged --quiet; then  # 変更をチェックしてあればコミット
+          echo "No changes to commit."
+        else
+          git commit -m "Update RSS feed"
+          git push origin update-rss
+        fi
