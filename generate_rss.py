@@ -2,22 +2,29 @@ import feedparser
 from feedgen.feed import FeedGenerator
 from datetime import datetime
 import pytz
+import requests
+from bs4 import BeautifulSoup
 
 # 日本時間のタイムゾーンを設定
 JST = pytz.timezone("Asia/Tokyo")
 
 
-def generate_rss_feed():
+def get_rss_links(url, blacklist):
+    if url in blacklist:
+        return []
+    try:
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, "html.parser")
+        rss_links = [
+            link.get("href")
+            for link in soup.find_all("link", {"type": "application/rss+xml"})
+        ]
+        return rss_links
+    except:
+        return []
 
-    # 読み込みたいRSSフィードのURL
-    feed_urls = [
-        "https://prtimes.jp/index.rdf",
-        "https://b.hatena.ne.jp/hotentry/all.rss",
-        "https://b.hatena.ne.jp/hotentry/knowledge.rss",
-        "https://b.hatena.ne.jp/q/%E5%AD%A6%E7%94%9F?mode=rss&sort=hot",
-        "https://thebridge.jp/feed",
-    ]
 
+def generate_rss_feed(feed_urls, blacklist):
     # 全てのフィードエントリを保持するリスト
     all_entries = []
 
@@ -25,6 +32,12 @@ def generate_rss_feed():
     for url in feed_urls:
         feed = feedparser.parse(url)
         all_entries.extend(feed.entries)
+
+        # 再帰的に新しいURLを探索し、RSSフィードを追加
+        new_urls = get_rss_links(url, blacklist)
+        for new_url in new_urls:
+            if new_url not in feed_urls and new_url not in blacklist:
+                feed_urls.append(new_url)
 
     # エントリを公開日でソート
     # 'published_parsed'がない場合は現在時刻を使用する
@@ -60,4 +73,12 @@ def generate_rss_feed():
 
 
 if __name__ == "__main__":
-    generate_rss_feed()
+    feed_urls = [
+        "https://prtimes.jp/index.rdf",
+        "https://b.hatena.ne.jp/hotentry/all.rss",
+        "https://b.hatena.ne.jp/hotentry/knowledge.rss",
+        "https://b.hatena.ne.jp/q/%E5%AD%A6%E7%94%9F?mode=rss&sort=hot",
+        "https://thebridge.jp/feed",
+    ]
+    blacklist = ["https://example.com/blacklisted_site.rss"]
+    generate_rss_feed(feed_urls, blacklist)
