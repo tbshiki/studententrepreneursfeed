@@ -5,7 +5,7 @@ import pytz
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-import time  # 追加
+import time
 
 # 日本時間のタイムゾーンを設定
 JST = pytz.timezone("Asia/Tokyo")
