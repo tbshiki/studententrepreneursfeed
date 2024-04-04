@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 JST = pytz.timezone("Asia/Tokyo")
 
 
-def get_rss_links(url, blacklist):
-    if url in blacklist:
+def get_rss_links(url, blacklist, max_depth, current_depth=0):
+    if current_depth >= max_depth or url in blacklist:
         return []
     try:
         response = requests.get(url)
@@ -24,6 +24,13 @@ def get_rss_links(url, blacklist):
         return []
 
 
+def add_new_url_to_file(url, file_path):
+    with open(file_path, "r+") as file:
+        existing_urls = [line.strip() for line in file]
+        if url not in existing_urls:
+            file.write(url + "\n")
+
+
 def generate_rss_feed(feed_urls, blacklist):
     # 全てのフィードエントリを保持するリスト
     all_entries = []
@@ -34,10 +41,11 @@ def generate_rss_feed(feed_urls, blacklist):
         all_entries.extend(feed.entries)
 
         # 再帰的に新しいURLを探索し、RSSフィードを追加
-        new_urls = get_rss_links(url, blacklist)
+        new_urls = get_rss_links(url, blacklist, max_depth=3)
         for new_url in new_urls:
             if new_url not in feed_urls and new_url not in blacklist:
-                feed_urls.append(new_url)
+                add_new_url_to_file(new_url, "feed_urls.txt")
+                add_new_url_to_file(new_url, "blacklist.txt")
 
     # エントリを公開日でソート
     # 'published_parsed'がない場合は現在時刻を使用する
@@ -72,13 +80,12 @@ def generate_rss_feed(feed_urls, blacklist):
     fg.rss_file("feed/index.xml", pretty=True, encoding="utf-8")
 
 
+def load_urls_from_file(file_path):
+    with open(file_path, "r") as file:
+        return [line.strip() for line in file]
+
+
 if __name__ == "__main__":
-    feed_urls = [
-        "https://prtimes.jp/index.rdf",
-        "https://b.hatena.ne.jp/hotentry/all.rss",
-        "https://b.hatena.ne.jp/hotentry/knowledge.rss",
-        "https://b.hatena.ne.jp/q/%E5%AD%A6%E7%94%9F?mode=rss&sort=hot",
-        "https://thebridge.jp/feed",
-    ]
-    blacklist = ["https://example.com/blacklisted_site.rss"]
+    feed_urls = load_urls_from_file("feed_urls.txt")
+    blacklist = load_urls_from_file("blacklist.txt")
     generate_rss_feed(feed_urls, blacklist)
