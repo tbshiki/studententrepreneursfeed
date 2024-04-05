@@ -6,6 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 05 Apr 2024 20:00:08 +0900</lastBuildDate>
     <item>
       <title>社会人27期が卒業！卒業生の声を公開しました！</title>
@@ -69,6 +70,13 @@
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
+=======
+    <lastBuildDate>Fri, 05 Apr 2024 09:06:23 +0900</lastBuildDate>
+    <item>
+      <title>学生起業で絶対に失敗しない方法｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
+      <description>&lt;p id="0b4794cb-70ab-4188-8892-6a5a6f49cc41" name="0b4794cb-70ab-4188-8892-6a5a6f49cc41"&gt;ピピピッ・・・ピピピッ&lt;/p&gt;&lt;p id="39c5e507-28df-4460-abb4-dcd9df818321" name="39c5e507-28df-4460-abb4-dcd9df818321"&gt;電子音がする。アラームだ。寝ぼけ眼を擦りながらメガネを見る。&lt;br /&gt;メガネの表面には、現在時刻が表示されている。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/shi3zblog/n/n29fd8389256c"&gt;続きをみる&lt;/a&gt;</description>
+>>>>>>> a22e0a4bd5a888f8b438a9c7e43520c7481a43b1
     </item>
   </channel>
 </rss>
