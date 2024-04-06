@@ -6,8 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-<<<<<<< HEAD
-    <lastBuildDate>Fri, 05 Apr 2024 20:00:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 10:43:27 +0900</lastBuildDate>
     <item>
       <title>社会人27期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_27g/</link>
@@ -58,6 +57,12 @@
       <pubDate>Mon, 18 Mar 2024 02:36:42 +0000</pubDate>
     </item>
     <item>
+      <title>Command-R+の衝撃! 100Bモデルで本当にこんなことできんの!?ダウンロードしてローカルで実行可能</title>
+      <link>https://note.com/shi3zblog/n/nd2c5ae1374ca</link>
+      <description>&lt;p id="81238f87-2fb9-4e60-85ce-3e29ca3b0629" name="81238f87-2fb9-4e60-85ce-3e29ca3b0629"&gt;Transformerの発明者らが起業したCohereAIがとんでもないモデルを出してきた。この業界では毎週のように「えーー!」ということが起きるのだが、その中でも年に1,2回起きる「えーーーっ」が起きたのでブログでも紹介しておきたい。&lt;/p&gt;&lt;p id="25a42395-fcf9-4917-b78f-2640a8840585" name="25a42395-fcf9-4917-b78f-2640a8840585"&gt;Command-R+(おそらくコマンダープラスと読むのが正しい)というモデルは、わずか100Bで、GPT-4,Claude-3並と言われるモデルだ。しかし、それを主張するだけのモデルなど腐るほどある。だが、実際に触ってみると期待外れということが多かった。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/shi3zblog/n/nd2c5ae1374ca"&gt;続きをみる&lt;/a&gt;</description>
+      <pubDate>Sat, 06 Apr 2024 08:56:16 +0900</pubDate>
+    </item>
+    <item>
       <title>「三体」ドラマ化を夢見た起業家の毒殺、元ビジネスパートナーに死刑判決</title>
       <link>https://www.cnn.co.jp/showbiz/35217348.html?ref=rss</link>
       <description>中国のＳＦ小説「三体」の大ファンだった若手起業家の林奇（リンチー）氏は、この作品の映画化やテレビドラマ化を果たし、「スター・ウォーズ」のような世界的ブームを巻き起こす構想を描いていた。
@@ -70,13 +75,6 @@
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
-=======
-    <lastBuildDate>Fri, 05 Apr 2024 09:06:23 +0900</lastBuildDate>
-    <item>
-      <title>学生起業で絶対に失敗しない方法｜shi3z</title>
-      <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
-      <description>&lt;p id="0b4794cb-70ab-4188-8892-6a5a6f49cc41" name="0b4794cb-70ab-4188-8892-6a5a6f49cc41"&gt;ピピピッ・・・ピピピッ&lt;/p&gt;&lt;p id="39c5e507-28df-4460-abb4-dcd9df818321" name="39c5e507-28df-4460-abb4-dcd9df818321"&gt;電子音がする。アラームだ。寝ぼけ眼を擦りながらメガネを見る。&lt;br /&gt;メガネの表面には、現在時刻が表示されている。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/shi3zblog/n/n29fd8389256c"&gt;続きをみる&lt;/a&gt;</description>
->>>>>>> a22e0a4bd5a888f8b438a9c7e43520c7481a43b1
     </item>
   </channel>
 </rss>
