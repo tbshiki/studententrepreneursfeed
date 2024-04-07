@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Apr 2024 10:43:27 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 10:42:29 +0900</lastBuildDate>
     <item>
       <title>社会人27期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_27g/</link>
@@ -57,24 +57,22 @@
       <pubDate>Mon, 18 Mar 2024 02:36:42 +0000</pubDate>
     </item>
     <item>
-      <title>Command-R+の衝撃! 100Bモデルで本当にこんなことできんの!?ダウンロードしてローカルで実行可能</title>
-      <link>https://note.com/shi3zblog/n/nd2c5ae1374ca</link>
-      <description>&lt;p id="81238f87-2fb9-4e60-85ce-3e29ca3b0629" name="81238f87-2fb9-4e60-85ce-3e29ca3b0629"&gt;Transformerの発明者らが起業したCohereAIがとんでもないモデルを出してきた。この業界では毎週のように「えーー!」ということが起きるのだが、その中でも年に1,2回起きる「えーーーっ」が起きたのでブログでも紹介しておきたい。&lt;/p&gt;&lt;p id="25a42395-fcf9-4917-b78f-2640a8840585" name="25a42395-fcf9-4917-b78f-2640a8840585"&gt;Command-R+(おそらくコマンダープラスと読むのが正しい)というモデルは、わずか100Bで、GPT-4,Claude-3並と言われるモデルだ。しかし、それを主張するだけのモデルなど腐るほどある。だが、実際に触ってみると期待外れということが多かった。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/shi3zblog/n/nd2c5ae1374ca"&gt;続きをみる&lt;/a&gt;</description>
-      <pubDate>Sat, 06 Apr 2024 08:56:16 +0900</pubDate>
-    </item>
-    <item>
-      <title>「三体」ドラマ化を夢見た起業家の毒殺、元ビジネスパートナーに死刑判決</title>
-      <link>https://www.cnn.co.jp/showbiz/35217348.html?ref=rss</link>
-      <description>中国のＳＦ小説「三体」の大ファンだった若手起業家の林奇（リンチー）氏は、この作品の映画化やテレビドラマ化を果たし、「スター・ウォーズ」のような世界的ブームを巻き起こす構想を描いていた。
-
-２０１４年、自らが創業したゲーム会社の上場を果たして多額の資産を手にした林氏は、この夢の実現に乗り出した。
-
-それから１０年。林氏の夢がかなおうとしている。ネットフリックスでドラマ化された三体は、世界中で何百万も...&lt;br clear="left" /&gt;&lt;a href="https://www.cnn.co.jp/showbiz/35217348.html?ref=rss"&gt;&lt;img src="https://www.cnn.co.jp/storage/2024/04/04/ca95086310ac3f49fd5f02218867babb/t/768/432/d/201229134830-lin-qi-chairman-and-ceo-of-yoozoo-games-co.jpg" /&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
+    </item>
+    <item>
+      <title>Command-R+の衝撃! 100Bモデルで本当にこんなことできんの!?ダウンロードしてローカルで実行可能｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/nd2c5ae1374ca</link>
+      <description>Command-R+の衝撃! 100Bモデルで本当にこんなことできんの!?ダウンロードしてローカルで実行可能 Transformerの発明者らが起業したCohereAIがとんでもないモデルを出してきた。この業界では毎週のように「えーー!」ということが起きるのだが、その中でも年に1,2回起きる「えーーーっ」が起きたのでブログでも紹介してお...</description>
+    </item>
+    <item>
+      <title>【令和の虎】StockSun創業者の株本祐己氏をゲストに迎え、イベントセミナーを愛媛・松山で開催【4/27】</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000006.000133506.html</link>
+      <description>[株式会社ドローウィズ]
+[画像: https://prtimes.jp/i/133506/6/resize/d133506-6-9ad8e3093881d3ca12e0-0.png ]
+
+愛媛県で活動する若手起業家チームの“フリーランスアカデミー”が主催する『EHIME START UP SUMMIT  2024』にて、令和の虎...</description>
     </item>
   </channel>
 </rss>
