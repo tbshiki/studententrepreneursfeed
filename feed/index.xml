@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Apr 2024 10:42:29 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 11:18:02 +0900</lastBuildDate>
     <item>
       <title>社会人27期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_27g/</link>
@@ -57,22 +57,54 @@
       <pubDate>Mon, 18 Mar 2024 02:36:42 +0000</pubDate>
     </item>
     <item>
+      <title>Command-R+の衝撃! 100Bモデルで本当にこんなことできんの!?ダウンロードしてローカルで実行可能</title>
+      <link>https://note.com/shi3zblog/n/nd2c5ae1374ca</link>
+      <description>&lt;p id="81238f87-2fb9-4e60-85ce-3e29ca3b0629" name="81238f87-2fb9-4e60-85ce-3e29ca3b0629"&gt;Transformerの発明者らが起業したCohereAIがとんでもないモデルを出してきた。この業界では毎週のように「えーー!」ということが起きるのだが、その中でも年に1,2回起きる「えーーーっ」が起きたのでブログでも紹介しておきたい。&lt;/p&gt;&lt;p id="25a42395-fcf9-4917-b78f-2640a8840585" name="25a42395-fcf9-4917-b78f-2640a8840585"&gt;Command-R+(おそらくコマンダープラスと読むのが正しい)というモデルは、わずか100Bで、GPT-4,Claude-3並と言われるモデルだ。しかし、それを主張するだけのモデルなど腐るほどある。だが、実際に触ってみると期待外れということが多かった。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/shi3zblog/n/nd2c5ae1374ca"&gt;続きをみる&lt;/a&gt;</description>
+      <pubDate>Sat, 06 Apr 2024 08:56:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>「Takeoff Tokyo」開催まであと2日、世界中から多くの起業家・投資家が集結する理由をアンティに聞いた</title>
+      <link>https://thebridge.jp/2024/04/t-minus-2-days-until-takeoff-tokyo-2024</link>
+      <description>&lt;p&gt;昨年、国際カンファレンス「SLUSH TOKYO（当初は SLUSH ASIA）」の CEO、それ以前は Angry Birds で知られる Rovio Entertainment の日本カントリーマネージャーを務めた Antti Sonninen 氏らが、Takeoff Tokyo なるスタートアップイベント＆コミュニティを開催したことはお伝えした。 東京で初めての SLUSH ASIA が開催...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/04/t-minus-2-days-until-takeoff-tokyo-2024"&gt;「Takeoff Tokyo」開催まであと2日、世界中から多くの起業家・投資家が集結する理由をアンティに聞いた&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Apr 2024 00:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>社会人講座 3月開講・32期生がスタート！受講生の声まとめ</title>
+      <link>https://willfu.jp/news/shakaijin_32/</link>
+      <description>&lt;p&gt;2024年3月から社会人32期生がスタートしました！ 以下、受講生の声をまとめました！ 会社員生活が長くなり、会社方針と自分の考えがマッチすることばかりでなく、疑問を持ったままの仕事にやりがいを感じなくなっている。 いつ [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;投稿 &lt;a href="https://willfu.jp/news/shakaijin_32/" rel="nofollow"&gt;社会人講座 3月開講・32期生がスタート！受講生の声まとめ&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Apr 2024 01:34:15 +0000</pubDate>
+    </item>
+    <item>
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>Command-R+の衝撃! 100Bモデルで本当にこんなことできんの!?ダウンロードしてローカルで実行可能｜shi3z</title>
-      <link>https://note.com/shi3zblog/n/nd2c5ae1374ca</link>
-      <description>Command-R+の衝撃! 100Bモデルで本当にこんなことできんの!?ダウンロードしてローカルで実行可能 Transformerの発明者らが起業したCohereAIがとんでもないモデルを出してきた。この業界では毎週のように「えーー!」ということが起きるのだが、その中でも年に1,2回起きる「えーーーっ」が起きたのでブログでも紹介してお...</description>
+      <title>シード起業家が主役となるスタートアップカンファレンス「JAFCO SEED 2024」5月27日(月)に初開催！</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000056.000057515.html</link>
+      <description>[JAFCO]
+[画像: https://prtimes.jp/i/57515/56/resize/d57515-56-c3386742a8b5748c9d87-0.jpg ]
+
+
+&amp;lt;開催背景&amp;gt;
+ジャフコはシード・アーリー期をメインに投資をしており、国内で最も長い歴史をもつベンチャーキャピ...</description>
     </item>
     <item>
-      <title>【令和の虎】StockSun創業者の株本祐己氏をゲストに迎え、イベントセミナーを愛媛・松山で開催【4/27】</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000006.000133506.html</link>
-      <description>[株式会社ドローウィズ]
-[画像: https://prtimes.jp/i/133506/6/resize/d133506-6-9ad8e3093881d3ca12e0-0.png ]
+      <title>【岡山大学】2024年度岡大起業部キックオフイベント「学問と挑戦の二刀流」～日本のスタートアップ・エコシステムの立役者 経産省石井審議役が来学～〔4/19,金 岡山大学津島キャンパス〕</title>
+      <link>https://prtimes.jp/main/html/rd/p/000002114.000072793.html</link>
+      <description>[国立大学法人岡山大学]
+2024（令和6）年 4月 7日
+国立大学法人岡山大学
+https://www.okayama-u.ac.jp/
 
-愛媛県で活動する若手起業家チームの“フリーランスアカデミー”が主催する『EHIME START UP SUMMIT  2024』にて、令和の虎...</description>
+[画像1: https://prtimes.jp/i/72793/2114/resize/d72793-2114-993418f7c39b818ecae1-0.jpg ]
+
+
+
+◆概 要
+　国立大学法人岡山大学（...</description>
     </item>
   </channel>
 </rss>
