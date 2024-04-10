@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Apr 2024 10:46:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 11:24:20 +0900</lastBuildDate>
     <item>
       <title>社会人27期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_27g/</link>
@@ -77,9 +77,38 @@
       <pubDate>Mon, 08 Apr 2024 01:34:15 +0000</pubDate>
     </item>
     <item>
+      <title>｢結婚=幸せの人は地獄さまよう｣…裏切られ騙され利用されても全部ネタにして稼ぐタフな67歳女性の哲学　 - 貯金ゼロ､バツイチだからわかる自分一人の足で歩く醍醐味</title>
+      <link>https://president.jp/articles/-/80330</link>
+      <description>67歳の野原広子さんは週刊誌などで体当たり取材を得意とするライターだ。20代後半で起業するも、経営に失敗。仕事や人間関係の煩わしさから…</description>
+      <pubDate>Tue, 09 Apr 2024 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>評価額250億円、逆転の資本政策と「カンム流」スウィングバイ IPO を学ぶ会【4月26日参加者募集】</title>
+      <link>https://thebridge.jp/2024/04/muip-kanmu-how-to-get-swiing-by-ipo</link>
+      <description>&lt;p&gt;イベントサマリー：本誌 BRIDGE は4月26日、三菱 UFJ イノベーション・パートナーズの協力を得て「スウィングバイ IPO（※）」をテーマにした起業家・投資家、金融機関向けの勉強会を開催する。セッションには22年12月、MUFG が250億円の評価額で子会社化したカンム創業者、代表取締役 執行役員 CEO の八巻渉氏が登壇する。また、本件に詳しい三菱 UFJ イノベーション・パートナーズの...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/04/muip-kanmu-how-to-get-swiing-by-ipo"&gt;評価額250億円、逆転の資本政策と「カンム流」スウィングバイ IPO を学ぶ会【4月26日参加者募集】&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 09 Apr 2024 08:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI時代に起業するということ</title>
+      <link>https://note.com/shi3zblog/n/n22dfac67f756</link>
+      <description>&lt;p id="d34560d4-3be2-40a7-a296-0c488dcebf45" name="d34560d4-3be2-40a7-a296-0c488dcebf45"&gt;生成AI以前と以後で、会社のあり方は決定的に変化していくのだと思う。&lt;br /&gt;たとえば、昨日はとある会議で、「この(AI)サービスの原価はいくらか」という議論が沸き起こった。&lt;/p&gt;&lt;p id="586b1186-7e77-40af-a4a1-58f62771451e" name="586b1186-7e77-40af-a4a1-58f62771451e"&gt;AIサービスなのだから、AIの利用料くらいしかかからないかというとそうでもない。実際、AIを動かすためにはAIそのものにかかるお金以外の人件費がかかる。誰かに売る人の人件費や、システム開発のための人件費や、サポートのための人件費だ。ただ、AIサービスの場合、人件費を極限まで最小化することができる、という点が決定的に違う。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/shi3zblog/n/n22dfac67f756"&gt;続きをみる&lt;/a&gt;</description>
+      <pubDate>Wed, 10 Apr 2024 07:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
+    </item>
+    <item>
+      <title>◆関西大学がカードゲーム「似テイル」の提供を開始！◆学生から大人まで「言葉にする力」を鍛えられる新ツールが誕生！</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000087.000013058.html</link>
+      <description>[関西大学]
+[画像1: https://prtimes.jp/i/13058/87/resize/d13058-87-c06b233501376b81989c-0.jpg ]
+
+【本件のポイント】
+・遊びながら、会話、説明、プレゼンが自然にうまくなるゲームが誕生！
+・起業を志す若者をはじめ、...</description>
     </item>
   </channel>
 </rss>
