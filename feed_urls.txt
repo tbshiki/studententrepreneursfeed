@@ -69,3 +69,7 @@ https://willfu.jp/news/shakaijin_32/feed
 https://thebridge.jp/2024/04/muip-kanmu-how-to-get-swiing-by-ipo/feed
 https://thebridge.jp/2024/04/tohoku-startup-runway-launched/feed
 https://note.com/masudakaoru_/rss
+https://agend.jp/media/rss
+https://agend.jp/media/feed
+https://willfu.jp/willfulab-2/shakaijin_30g/rss
+https://willfu.jp/willfulab-2/shakaijin_30g/feed
