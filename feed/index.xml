@@ -6,14 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Apr 2024 11:20:00 +0900</lastBuildDate>
-    <item>
-      <title>社会人講座 1月開講・30期生がスタート！受講生の声まとめ</title>
-      <link>https://willfu.jp/news/shakaijin_30/</link>
-      <description>&lt;p&gt;2024年1月から社会人30期生がスタートしました！ 以下、受講生の声をまとめました！ 随分前から起業を考えており、知識面はかなり学んできたが、実行に移す段階で1人では難しさを感じていたところ、WILLFU社会人講座を見 [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;投稿 &lt;a href="https://willfu.jp/news/shakaijin_30/" rel="nofollow"&gt;社会人講座 1月開講・30期生がスタート！受講生の声まとめ&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Jan 2024 08:47:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Apr 2024 11:19:02 +0900</lastBuildDate>
     <item>
       <title>「3Dプリンタで思い出を形に。知識・技術ゼロから、商品開発・起業へ」（36歳 東京都在住）</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_gr26_i/</link>
@@ -100,6 +93,12 @@
       <pubDate>Tue, 16 Apr 2024 02:00:51 +0000</pubDate>
     </item>
     <item>
+      <title>子どもにビジネスのイロハを授けたら、息子が学校で起業した話</title>
+      <link>https://note.com/getbetter/n/n78a6cc42b3ba</link>
+      <description>&lt;p id="10bda34a-6e48-4358-aaed-612b05cd5ec8" name="10bda34a-6e48-4358-aaed-612b05cd5ec8"&gt;最初に断っておくと、わたしは&lt;strong&gt;ビジネス初心者&lt;/strong&gt;です。&lt;/p&gt;&lt;p id="10d93fbe-a041-44a0-9615-7f43a235381d" name="10d93fbe-a041-44a0-9615-7f43a235381d"&gt;新卒以来働いていたのは政府機関。ビジネスとは縁遠い世界で生きてきました。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/getbetter/n/n78a6cc42b3ba"&gt;続きをみる&lt;/a&gt;</description>
+      <pubDate>Wed, 17 Apr 2024 06:27:27 +0900</pubDate>
+    </item>
+    <item>
       <title>寺田倉庫、東京・天王洲にスタートアップハブを開設——シードスタートアップ最大10社を無償支援</title>
       <link>https://thebridge.jp/2024/04/warehouse-terrada-launches-isle-of-creation-tennoz</link>
       <description>&lt;p&gt;東京・品川区を拠点とする寺田倉庫は17日、天王洲エリアを新たなスタートアップハブにする「Isle of Creation TENNOZ」プロジェクトを発表した。具体的には、エリア内の空室オフィスを活用し、シェアオフィスやコワーキングスペースを設置する。さらに、スタートアップのニーズに合わせたサービスを導入することで、利便性の高い起業環境を生みだす。都心の商業中心地の喧騒からは距離を置きつつ、新幹線...&lt;/p&gt;
@@ -114,32 +113,47 @@
       <pubDate>Wed, 17 Apr 2024 08:39:01 +0000</pubDate>
     </item>
     <item>
+      <title>クリエイターとのコラボで、コスパの良いマーケティングを展開できる「Castee」／Monthly Pitch! スタートアップの扉</title>
+      <link>https://thebridge.jp/2024/04/monthlypitch-castee-cyberagentcapital-insight</link>
+      <description>&lt;p&gt;本稿はベンチャーキャピタル、サイバーエージェント・キャピタルが運営するサイトに掲載された記事からの転載。毎月第2水曜日に開催される Monthly Pitch へのピッチ登壇をご希望の起業家の方、オーディエンス参加をご希望の起業家の方の応募はこちらから サービス概要：Casteeが運営するのは日本・アジア初のソーシャルコラボレーションサービス「Castee」。ソーシャルコラボレーションとは、SNS...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/04/monthlypitch-castee-cyberagentcapital-insight"&gt;クリエイターとのコラボで、コスパの良いマーケティングを展開できる「Castee」／Monthly Pitch! スタートアップの扉&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Apr 2024 22:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>ノーコードでWebサービスにガイダンス追加、UI／UX改善SaaS「Onboarding」／Monthly Pitch! スタートアップの扉</title>
+      <link>https://thebridge.jp/2024/04/monthlypitch-stands-cyberagentcapital-insight</link>
+      <description>&lt;p&gt;本稿はベンチャーキャピタル、サイバーエージェント・キャピタルが運営するサイトに掲載された記事からの転載。毎月第2水曜日に開催される Monthly Pitch へのピッチ登壇をご希望の起業家の方、オーディエンス参加をご希望の起業家の方の応募はこちらから サービス概要：STANDSが提供するプロダクトはUI/UX改善SaaS「Onboarding」。サービスサイトにユーザーを導くチュートリアルなどの...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/04/monthlypitch-stands-cyberagentcapital-insight"&gt;ノーコードでWebサービスにガイダンス追加、UI／UX改善SaaS「Onboarding」／Monthly Pitch! スタートアップの扉&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Apr 2024 22:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>匿名アンケートと引受条件の検索で、持病がある人の保険加入を容易にするSEIMEI／Monthly Pitch! スタートアップの扉</title>
+      <link>https://thebridge.jp/2024/04/monthlypitch-seimei-cyberagentcapital-insight</link>
+      <description>&lt;p&gt;本稿はベンチャーキャピタル、サイバーエージェント・キャピタルが運営するサイトに掲載された記事からの転載。毎月第2水曜日に開催される Monthly Pitch へのピッチ登壇をご希望の起業家の方、オーディエンス参加をご希望の起業家の方の応募はこちらから サービス概要：SEIMEIは、持病のある方向けに「持病保険診断」を、保険代理店向けに検索ツール「ソリシター君」を提供しています。持病保険診断は潜在...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/04/monthlypitch-seimei-cyberagentcapital-insight"&gt;匿名アンケートと引受条件の検索で、持病がある人の保険加入を容易にするSEIMEI／Monthly Pitch! スタートアップの扉&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Apr 2024 23:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>問い合わせフォームで商談日程・担当者を自動確定、商機を逃さない「immedio」／Monthly Pitch! スタートアップの扉</title>
+      <link>https://thebridge.jp/2024/04/monthlypitch-immedio-cyberagentcapital-insight</link>
+      <description>&lt;p&gt;本稿はベンチャーキャピタル、サイバーエージェント・キャピタルが運営するサイトに掲載された記事からの転載。毎月第2水曜日に開催される Monthly Pitch へのピッチ登壇をご希望の起業家の方、オーディエンス参加をご希望の起業家の方の応募はこちらから サービス概要：immedioが提供するのは、商談のとりこぼしをなくし受注を伸ばすリード商談化ツール「immedio」です。見込み客がimmedio...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/04/monthlypitch-immedio-cyberagentcapital-insight"&gt;問い合わせフォームで商談日程・担当者を自動確定、商機を逃さない「immedio」／Monthly Pitch! スタートアップの扉&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Apr 2024 23:15:24 +0000</pubDate>
+    </item>
+    <item>
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>史上初「野音起業フェス」ライトニングトーク2を5/30に開催。音楽の聖地に起業家が大集合｜創業手帳主催</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000069.000013517.html</link>
-      <description>[創業手帳]
-[画像: https://prtimes.jp/i/13517/69/resize/d13517-69-769bfbf5a90c2fce0434-0.jpg ]
+      <title>エンジニア起業家養成学校「ジーズアカデミー」、Startup Weekendの年間スポンサーに</title>
+      <link>https://prtimes.jp/main/html/rd/p/000002377.000000496.html</link>
+      <description>[デジタルハリウッド株式会社]
+[画像1: https://prtimes.jp/i/496/2377/resize/d496-2377-15b36881c012412c0d55-0.png ]
 
+■ Startup Weekend協賛の背景
 
-「野音起業フェス」とは？
-
-
-
-今回のイベントはライトニングトークという形式で行います。
-
-ライトニングトークとは英語...</description>
-    </item>
-    <item>
-      <title>天王洲をスタートアップが集まる街へ。寺田倉庫、水辺とアートの街で「Isle of Creation TENNOZ」を始動</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000378.000014158.html</link>
-      <description>[寺田倉庫]
-[画像1: https://prtimes.jp/i/14158/378/resize/d14158-378-8c2bf288b9b18ee6f957-0.png ]
-
-Isle of Creation TENNOZ（以下、本プロジェクト）は、天王洲がスタートアップの実験基地となり、起業家、アーティス...</description>
+ジーズアカデミーは、多様なバックグラウンドを持つ社会人がプログラミングを学び、自ら...</description>
     </item>
   </channel>
 </rss>
