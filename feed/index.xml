@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Apr 2024 11:26:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 10:48:46 +0900</lastBuildDate>
     <item>
       <title>「3Dプリンタで思い出を形に。知識・技術ゼロから、商品開発・起業へ」池田 義規さん（36歳 東京都在住）</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_gr26_i/</link>
@@ -99,13 +99,6 @@
       <pubDate>Wed, 17 Apr 2024 06:27:27 +0900</pubDate>
     </item>
     <item>
-      <title>寺田倉庫、東京・天王洲にスタートアップハブを開設——シードスタートアップ最大10社を無償支援</title>
-      <link>https://thebridge.jp/2024/04/warehouse-terrada-launches-isle-of-creation-tennoz</link>
-      <description>&lt;p&gt;東京・品川区を拠点とする寺田倉庫は17日、天王洲エリアを新たなスタートアップハブにする「Isle of Creation TENNOZ」プロジェクトを発表した。具体的には、エリア内の空室オフィスを活用し、シェアオフィスやコワーキングスペースを設置する。さらに、スタートアップのニーズに合わせたサービスを導入することで、利便性の高い起業環境を生みだす。都心の商業中心地の喧騒からは距離を置きつつ、新幹線...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/04/warehouse-terrada-launches-isle-of-creation-tennoz"&gt;寺田倉庫、東京・天王洲にスタートアップハブを開設——シードスタートアップ最大10社を無償支援&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Apr 2024 00:00:07 +0000</pubDate>
-    </item>
-    <item>
       <title>代表取締役の自宅住所を非公開に　登記、10月から希望制で　起業促進に期待</title>
       <link>https://www.itmedia.co.jp/news/articles/2404/18/news145.html</link>
       <pubDate>Thu, 18 Apr 2024 14:32:00 +0900</pubDate>
@@ -165,9 +158,12 @@
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>なりすまし詐欺広告と“誤認”か　「ホリエモンAI学校」、Metaに広告アカウントを凍結される　運営会社は「ずさん」と苦言</title>
-      <link>https://www.itmedia.co.jp/news/articles/2404/19/news125.html</link>
-      <description>ホリエモンAI学校は、ChatGPTを使った自動化ツールの作成やPythonのプログラミングなどを学べるオンラインスクール。堀江貴文さんをプロデューサーに迎え、今年1月に開校した。 なりすまし詐欺広告は、著名人の写真や名前を無断で使い、投資などを促すというもの。ZOZO創業者で起業家の前澤友作さん、実業家の堀江貴文さ...</description>
+      <title>あなたの起業の物語を応援します！ 大人の女性のためのビジネスコンテスト「BWA Pitch Contest 2024」が開催決定、4月19日（金）より募集受付スタート。</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000809.000011369.html</link>
+      <description>[CCCメディアハウス]
+[画像1: https://prtimes.jp/i/11369/809/resize/d11369-809-d6fb38b8c077ff5ab171-0.jpg ]
+
+新しい時代に、自分らしく働く女性たちが集うコミュニティ、フィガロジャポンBusiness with Attitude（BWA）は、2024...</description>
     </item>
   </channel>
 </rss>
