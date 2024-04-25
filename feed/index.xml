@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Apr 2024 11:25:15 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 11:25:20 +0900</lastBuildDate>
     <item>
       <title>社会人28期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_28g/</link>
@@ -99,13 +99,6 @@
       <pubDate>Thu, 18 Apr 2024 08:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>起業家となったアクセンチュア「マフィア」たちの物語</title>
-      <link>https://thebridge.jp/2024/04/a-story-of-ex-accenture-entrepreneurs-accenture-ventures</link>
-      <description>&lt;p&gt;3月の終わり、年度末の気忙しい時期に都内でちょっと趣向の変わったイベントがあったので参加してきた。テーマは「アルムナイ」だ。 麻布十番にほど近い「アクセンチュア・イノベーション・ハブ東京」には数多くの「元」アクセンチュアメンバーたちが多数集まっていた。そこに流れたのは、起業家として巣立っていったアルムナイたちの経験をシェアするという時間だった。今回、特別にクローズドのミートアップに参加させてもらっ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/04/a-story-of-ex-accenture-entrepreneurs-accenture-ventures"&gt;起業家となったアクセンチュア「マフィア」たちの物語&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Apr 2024 06:15:59 +0000</pubDate>
-    </item>
-    <item>
       <title>保護中: 「退職を決める前に受講したことで、退職後スムーズに営業を開始」山口洋平さん（37歳・東京都）</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_gr25_y/</link>
       <description>&lt;p&gt;この投稿はパスワードで保護されているため抜粋文はありません。&lt;/p&gt;
@@ -120,15 +113,16 @@
       <pubDate>Wed, 24 Apr 2024 01:00:33 +0000</pubDate>
     </item>
     <item>
+      <title>杉田雄二さん（株式会社エムステージ 代表取締役 兼 グループCEO）：
+起業の原点は「持続可能な医療の実現」
+健康経営を支援することで日本企業の成長へつなげる</title>
+      <link>https://jinjibu.jp/article/detl/topinterview/3454/</link>
+      <description>持続可能な医療の実現を、現場から加速させることをめざしているのが、エムステージグループです。同社を創業し、現在も新たなサービスの拡充に取り組んでいる代表取締役兼グループCEOの杉田雄二さんに、起業に至...</description>
+    </item>
+    <item>
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
-    </item>
-    <item>
-      <title>武蔵野大学・武蔵野美術大学・電気通信大学合同　大学生向け説明会を開催します。~起業やスタートアップに関心がある大学生向けの支援プログラムのご紹介~</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000215.000031052.html</link>
-      <description>[株式会社キャンパスクリエイト]
-2024年4月26日（金）、国立大学法人電気通信大学にて、武蔵野大学・武蔵野美術大学・電気通信大学合同による学生向け説明会を開催します。起業やスタートアップに関心がある大学生に対し、各大学の支援プログラム...</description>
     </item>
   </channel>
 </rss>
