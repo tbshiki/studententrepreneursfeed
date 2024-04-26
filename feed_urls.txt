@@ -93,3 +93,4 @@ https://willfu.jp/willfulab-2/shakaijin_gr25_y/rss
 https://willfu.jp/willfulab-2/shakaijin_gr25_y/feed
 https://thebridge.jp/2024/04/1stround-17-universities-2-organizations/feed
 https://jinjibu.jp/rss
+/feed/public.xml
