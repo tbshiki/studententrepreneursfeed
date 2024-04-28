@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Apr 2024 11:34:30 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 11:28:16 +0900</lastBuildDate>
     <item>
       <title>社会人28期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_28g/</link>
@@ -116,7 +116,7 @@
       <title>杉田雄二さん（株式会社エムステージ 代表取締役 兼 グループCEO）：
 起業の原点は「持続可能な医療の実現」
 健康経営を支援することで日本企業の成長へつなげる</title>
-      <link>https://jinjibu.jp/article/detl/topinterview/3454/</link>
+      <link>http://jinjibu.jp/article/detl/topinterview/3454/</link>
       <description>持続可能な医療の実現を、現場から加速させることをめざしているのが、エムステージグループです。同社を創業し、現在も新たなサービスの拡充に取り組んでいる代表取締役兼グループCEOの杉田雄二さんに、起業に至...</description>
     </item>
     <item>
@@ -125,15 +125,18 @@
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>ひいきする・高圧的・嫌味を言う……嫌いな上司の特徴ランキング　上司との難しい人間関係をうまくいかせるための考え方</title>
-      <link>https://logmi.jp/business/articles/330450</link>
-      <description>幸せ視点の経営を学ぶ、革新的なオンラインスクール hintゼミの主催で行われた本イベント。新著『小さくはじめよう 自分らしい事業を手づくりできる「マイクロ起業」メソッド』を出版した、ビジネス・ブレークスルー大学経営学部教授の斉藤徹氏が登壇しました。本記事では、上司がつい命令的・管理的になってしまう理由...</description>
+      <title>エンジニアとして真に成長するには？──技術スキルだけじゃない、"すごいエンジニア"が大切にするマインドセットとは</title>
+      <link>https://codezine.jp/article/detail/19281?p=3</link>
+      <description>すごいエンジニアになるためのマインドセット2つ目は「あらゆる責任を引き受ける」 2つ目に田中氏が大事にしているマインドセットは、米国の起業コンサルタントであるダン・ケネディ氏の「人生のコントロールをしたかったら、責任を引き受けろ」だという。 人生にはさまざまな判断がつきもの。しかし、会社の中でも意外...</description>
     </item>
     <item>
-      <title>どうすればコンフォートゾーンから抜け出すことができるのか？アーティストから起業家まで、自分が掲げた問いへの挑戦を舞台表現で描くイベント</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000001.000142043.html</link>
-      <description>[株式会社SHABEL]
-[画像: https://prcdn.freetls.fastly.net/release_image/142043/1/142043-1-501d5857d59569cd9a49ff9b1bd69e51-2400x1320.jpg?width=536&amp;amp;quality=85%2C75&amp;amp;format=jpeg&amp;amp;auto=webp&amp;amp;fit=bounds&amp;amp;amp...</description>
+      <title>【好評発売中】世界を救う100通りの希望「NEXT100」特集！</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000220.000017289.html</link>
+      <description>[リンクタイズグループ]
+概要
+
+
+Forbes JAPAN 2024年6月号の第一特集は、世界を救う希望「NEXT100」です。「多彩な新・起業家たち100人」にフォーカスした企画です。地球規模から社会、地域まで様々な課題に対して、アントレプレナーシッ...</description>
     </item>
   </channel>
 </rss>

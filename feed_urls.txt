@@ -96,3 +96,5 @@ https://jinjibu.jp/rss
 /feed/public.xml
 https://willfu.jp/willfulab-2/shakaijin_gr29_a/rss
 https://willfu.jp/willfulab-2/shakaijin_gr29_a/feed
+/rss/new/index.xml
+http://jinjibu.jp/rss
