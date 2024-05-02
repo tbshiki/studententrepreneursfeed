@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 May 2024 11:27:04 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 11:20:50 +0900</lastBuildDate>
     <item>
       <title>社会人28期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_28g/</link>
@@ -128,6 +128,13 @@
       <pubDate>Tue, 30 Apr 2024 07:00:07 +0000</pubDate>
     </item>
     <item>
+      <title>VRで痛みを和らげる治療法開発、xCuraが展望する欧州からの逆輸入展開／Monthly Pitch! アルムナイ</title>
+      <link>https://thebridge.jp/2024/05/mpalumni_xcura-cyberagentcapital-insight</link>
+      <description>&lt;p&gt;本稿はベンチャーキャピタル、サイバーエージェント・キャピタルが運営するサイトに掲載された記事からの転載。毎月第2水曜日に開催される Monthly Pitch へのピッチ登壇をご希望の起業家の方、オーディエンス参加をご希望の起業家の方の応募はこちらから 「MonthlyPitch アルムナイ」では、これまでにMonthlyPitch にピッチ登壇し、それを機に成長・発展したスタートアップの最新の動...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/05/mpalumni_xcura-cyberagentcapital-insight"&gt;VRで痛みを和らげる治療法開発、xCuraが展望する欧州からの逆輸入展開／Monthly Pitch! アルムナイ&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 May 2024 04:00:36 +0000</pubDate>
+    </item>
+    <item>
       <title>杉田雄二さん（株式会社エムステージ 代表取締役 兼 グループCEO）：
 起業の原点は「持続可能な医療の実現」
 健康経営を支援することで日本企業の成長へつなげる</title>
@@ -140,11 +147,18 @@
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>松浜エリアリノベーションカレッジ事前講演会参加者募集のご案内（新潟市北区産業振興課）</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000489.000021357.html</link>
-      <description>[新潟市]
-新潟市北区松浜エリアで、実際の遊休不動産を題材にした第2回松浜エリアリノベーションカレッジを開校します（今回は事前説明会）。
-松浜エリアリノベーションカレッジでは、起業を目指す人達を集めたワークショ...</description>
+      <title>自然言語プログラミングZoltraak（ゾルトラーク）が超絶すごい</title>
+      <link>https://simplethinker.net/zoltraak-programming-language/</link>
+      <description>先日、X（Twitter）で、2万人以上のフォロワーを持ち、起業家でありプログラマでもある元木大介さん（@ai_syacho）が、「Zoltraak（ゾルトラーク）」という自然言語プログラムを発表されました。 このZoltraakは、生成AIに対し自然言語（何らかの既存プログラミング言語ではなく日本語）で命令できる、新しいタイプのも...</description>
+    </item>
+    <item>
+      <title>HISと香川県東かがわ市　「地域活性化起業人制度」による派遣に関する協定を締結</title>
+      <link>https://prtimes.jp/main/html/rd/p/000001093.000005110.html</link>
+      <description>[株式会社エイチ・アイ・エス]
+[画像: https://prtimes.jp/i/5110/1093/resize/d5110-1093-39cb4526aad9f421fdb9-0.png ]
+
+
+　2025年に開催される「大阪・関西万博」や「瀬戸内国際芸術祭」など、世界から注目が集まるイベントの結節点である香...</description>
     </item>
   </channel>
 </rss>
