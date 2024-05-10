@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 May 2024 10:46:08 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 11:18:58 +0900</lastBuildDate>
     <item>
       <title>社会人28期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_28g/</link>
@@ -134,10 +134,24 @@
       <pubDate>Wed, 08 May 2024 01:00:12 +0000</pubDate>
     </item>
     <item>
+      <title>就活プラットフォーム「BaseMe」が目指す〝次世代LinkedIn〟への道／Monthly Pitch! アルムナイ</title>
+      <link>https://thebridge.jp/2024/05/mpalumni_allesgood-cyberagentcapital-insight</link>
+      <description>&lt;p&gt;本稿はベンチャーキャピタル、サイバーエージェント・キャピタルが運営するサイトに掲載された記事からの転載。毎月第2水曜日に開催される Monthly Pitch へのピッチ登壇をご希望の起業家の方、オーディエンス参加をご希望の起業家の方の応募はこちらから 「MonthlyPitch アルムナイ」では、これまでにMonthlyPitch にピッチ登壇し、それを機に成長・発展したスタートアップの最新の動...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/05/mpalumni_allesgood-cyberagentcapital-insight"&gt;就活プラットフォーム「BaseMe」が目指す〝次世代LinkedIn〟への道／Monthly Pitch! アルムナイ&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 09 May 2024 22:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>クーデター乗り越え、ミャンマーで再起——ウミガメ起業家・高田健太氏率いる「PLUS TALENT」が正式ローンチ</title>
+      <link>https://thebridge.jp/2024/05/plus-talent-official-launch</link>
+      <description>&lt;p&gt;※この記事は英語で書かれた記事を日本語訳したものです。英語版の記事はコチラから。 BRIDGE のパートナーメディアである e27 は2020年11月、ある日本人起業家が立ち上げたフードデリバリスタートアップ Hi-So の資金調達のニュースを取り上げた。このくだんの起業家の名は高田健太氏。丸紅でミャンマーに駐在し、その後、現地大学でミャンマー語を習得した後に独立。そうして中心都市のヤンゴンで立ち...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/05/plus-talent-official-launch"&gt;クーデター乗り越え、ミャンマーで再起——ウミガメ起業家・高田健太氏率いる「PLUS TALENT」が正式ローンチ&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 09 May 2024 23:00:58 +0000</pubDate>
+    </item>
+    <item>
       <title>杉田雄二さん（株式会社エムステージ 代表取締役 兼 グループCEO）：
 起業の原点は「持続可能な医療の実現」
 健康経営を支援することで日本企業の成長へつなげる</title>
-      <link>http://jinjibu.jp/article/detl/topinterview/3454/</link>
+      <link>https://jinjibu.jp/article/detl/topinterview/3454/</link>
       <description>持続可能な医療の実現を、現場から加速させることをめざしているのが、エムステージグループです。同社を創業し、現在も新たなサービスの拡充に取り組んでいる代表取締役兼グループCEOの杉田雄二さんに、起業に至...</description>
     </item>
     <item>
@@ -146,12 +160,10 @@
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>ガイアックス、港区立産業振興センターと連携し、高校生～大学生を対象にした4日間の起業体験プログラムを開催</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000629.000003955.html</link>
-      <description>[ガイアックス]
-[画像1: https://prtimes.jp/i/3955/629/resize/d3955-629-9233445d18b4209dc095-0.png ]
-
-本プログラムの概要：起業アイディアを考えるだけでなく、最新機器を活用してアイディアを形にする方法を学ぶ4日間のプ...</description>
+      <title>弥生、大宮に関東営業所を新設</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000252.000015865.html</link>
+      <description>[弥生株式会社]
+弥生は、会計事務所との連携を強化し、弥生製品・サービスを通じて中小企業や個人事業主、起業家の発展に寄与することを目指す会計事務所プログラム「弥生PAP」を運営しています。現在「弥生PAP」は全国12,000以...</description>
     </item>
   </channel>
 </rss>
