@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 May 2024 11:18:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:10:49 +0900</lastBuildDate>
     <item>
       <title>社会人28期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_28g/</link>
@@ -123,7 +123,7 @@
     <item>
       <title>ひとり会社を起業したときにわからなかったこと</title>
       <link>https://note.com/t2y1979/n/n2ec8fd47749e</link>
-      <description>&lt;p id="7d91784d-c3a0-4b24-ab9f-56986ca0ae56" name="7d91784d-c3a0-4b24-ab9f-56986ca0ae56"&gt;ひとり会社を経営してこの4月から第6期になる。期間として次の12月で創業5年になる。先日、その5年近くの経営の中での失敗からのふりかえりについて書いたところ、多くの人たちに読んでいただいたので嬉しい。&lt;/p&gt;&lt;figure contenteditable="false" id="030d8102-e01f-4eb1-a644-cb3a2a1bbf96" name="030d8102-e01f-4eb1-a644-cb3a2a1bbf96"&gt;    &lt;div class="fude-iframe-container"&gt;        &lt;div class="fude-iframe-container-note"&gt;                    &lt;/div&gt;    &lt;/div&gt;&lt;/figure&gt;&lt;br /&gt;&lt;a href="https://note.com/t2y1979/n/n2ec8fd47749e"&gt;続きをみる&lt;/a&gt;</description>
+      <description>&lt;p id="7d91784d-c3a0-4b24-ab9f-56986ca0ae56" name="7d91784d-c3a0-4b24-ab9f-56986ca0ae56"&gt;ひとり会社を経営してこの4月から第6期になる。期間として次の12月で創業5年になる。先日、その5年近くの経営の中での失敗からのふりかえりについて書いたところ、多くの人たちに読んでいただいたので嬉しい。&lt;/p&gt;&lt;figure id="030d8102-e01f-4eb1-a644-cb3a2a1bbf96" name="030d8102-e01f-4eb1-a644-cb3a2a1bbf96"&gt;&lt;/figure&gt;&lt;br /&gt;&lt;a href="https://note.com/t2y1979/n/n2ec8fd47749e"&gt;続きをみる&lt;/a&gt;</description>
       <pubDate>Sun, 05 May 2024 20:06:21 +0900</pubDate>
     </item>
     <item>
@@ -148,6 +148,20 @@
       <pubDate>Thu, 09 May 2024 23:00:58 +0000</pubDate>
     </item>
     <item>
+      <title>保護中: 「転職活動に疲弊。起業して、働くことが好きな自分に気づいた」秋田千明さん（35歳 東京都）</title>
+      <link>https://willfu.jp/willfulab-2/shakaijin_gr25_a/</link>
+      <description>&lt;p&gt;この投稿はパスワードで保護されているため抜粋文はありません。&lt;/p&gt;
+&lt;p&gt;投稿 &lt;a href="https://willfu.jp/willfulab-2/shakaijin_gr25_a/" rel="nofollow"&gt;保護中: 「転職活動に疲弊。起業して、働くことが好きな自分に気づいた」秋田千明さん（35歳 東京都）&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
+      <pubDate>Fri, 10 May 2024 04:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>脳に埋め込んだチップに不具合　マスク氏の新興企業ニューラリンク</title>
+      <link>https://www.cnn.co.jp/tech/35218747.html?ref=rss</link>
+      <description>米起業家イーロン・マスク氏の新興企業ニューラリンクは、被検者の脳にチップを埋め込む初の臨床試験に関連して、１月に埋め込んだチップに不具合が生じたことを明らかにした。
+
+同社のブログによると、チップに付いた多数の接続スレッド（糸）が、被験者のノーランド・アーボー氏の脳から外れ、埋め込み装置のデータ転送速度や効果に影響が出た。スレッドが外れた経緯など詳細は明らかにしていない。ただ、埋め込み装置の感度...&lt;br clear="left" /&gt;&lt;a href="https://www.cnn.co.jp/tech/35218747.html?ref=rss"&gt;&lt;img src="https://www.cnn.co.jp/storage/2024/05/10/503108713459e1ca44d26077a485b373/t/768/432/d/gettyimages-1968178089-20240509113459314.jpg" /&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>杉田雄二さん（株式会社エムステージ 代表取締役 兼 グループCEO）：
 起業の原点は「持続可能な医療の実現」
 健康経営を支援することで日本企業の成長へつなげる</title>
@@ -160,10 +174,9 @@
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>弥生、大宮に関東営業所を新設</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000252.000015865.html</link>
-      <description>[弥生株式会社]
-弥生は、会計事務所との連携を強化し、弥生製品・サービスを通じて中小企業や個人事業主、起業家の発展に寄与することを目指す会計事務所プログラム「弥生PAP」を運営しています。現在「弥生PAP」は全国12,000以...</description>
+      <title>ひとり会社の起業について学んだ10のこと - GoTheDistance</title>
+      <link>https://gothedistance.hatenadiary.jp/entry/2024/05/10/151440</link>
+      <description>note.com 僕の間違いじゃなければ、時々はてなのブログでコメントを頂いた方のように思う。Python関係で。大変お世話になりました！ 法人の設立にあたっての事務処理と、会社運営のお気持ち編を、自分の体験からまとめてみます。2016年6月にノリ（そうだ独立しよう）だけで起業して7年ほどひとり。今は2人体制になった。...</description>
     </item>
   </channel>
 </rss>
