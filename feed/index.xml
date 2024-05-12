@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 May 2024 11:10:49 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 10:39:36 +0900</lastBuildDate>
     <item>
       <title>社会人28期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_28g/</link>
@@ -177,6 +177,15 @@
       <title>ひとり会社の起業について学んだ10のこと - GoTheDistance</title>
       <link>https://gothedistance.hatenadiary.jp/entry/2024/05/10/151440</link>
       <description>note.com 僕の間違いじゃなければ、時々はてなのブログでコメントを頂いた方のように思う。Python関係で。大変お世話になりました！ 法人の設立にあたっての事務処理と、会社運営のお気持ち編を、自分の体験からまとめてみます。2016年6月にノリ（そうだ独立しよう）だけで起業して7年ほどひとり。今は2人体制になった。...</description>
+    </item>
+    <item>
+      <title>デモデイ参加者数500名。寄り添い伴走するtaliki×KRP共催の社会起業家支援プログラム「COM-PJ」第5期募集開始！</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000016.000036295.html</link>
+      <description>[株式会社taliki]
+[画像1: https://prtimes.jp/i/36295/16/resize/d36295-16-08e540c4639409669d48-4.png ]
+
+■今年度はアルムナイ合宿やメンタルウェルネスサポートも実施！
+「COM-PJ（ https://talikikrp.work/ ）」は、社会課題...</description>
     </item>
   </channel>
 </rss>
