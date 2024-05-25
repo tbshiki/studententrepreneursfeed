@@ -135,3 +135,6 @@ https://thebridge.jp/2024/05/suno-raises-125m-to-become-the-chatgpt-of-music-cre
 https://thebridge.jp/2024/05/intently-raises-3m-to-launch-ai-powered-networking-tool-for-startup-founders/feed
 https://willfu.jp/willfulab-2/shakaijin_gr29_h/rss
 https://willfu.jp/willfulab-2/shakaijin_gr29_h/feed
+https://rss.itmedia.co.jp/rss/2.0/business.xml
+https://willfu.jp/willfulab-2/shakaijin_gr28_y/rss
+https://willfu.jp/willfulab-2/shakaijin_gr28_y/feed
