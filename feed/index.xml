@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 May 2024 11:36:20 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 10:54:50 +0900</lastBuildDate>
     <item>
       <title>社会人講座 2月開講・31期生がスタート！受講生の声まとめ</title>
       <link>https://willfu.jp/news/shakaijin_31/</link>
@@ -470,6 +470,27 @@
       <pubDate>Fri, 24 May 2024 04:25:01 +0000</pubDate>
     </item>
     <item>
+      <title>DeepL CEO、テニスの天才ウィリアムズ姉妹が語ったスタートアップのD＆I（多様性と包摂）〜Viva Tech 2024から</title>
+      <link>https://thebridge.jp/2024/05/viva-technology-2024-day3</link>
+      <description>&lt;p&gt;本稿は、5月22日〜25日にパリで開催されている Viva Technology 2024 の取材の一部である。 パリ市内で開催中の「Viva Technology 2024」終盤を迎えた。SaaS スタートアップが資金調達の鐘を鳴らすと SaaS が増え、AI や Web3 が注目を集めると、その種のサービスが増えるのは世の常だ。モメンタムを追うことと節操の無さは表裏一体だが、どちらも起業家にと...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/05/viva-technology-2024-day3"&gt;DeepL CEO、テニスの天才ウィリアムズ姉妹が語ったスタートアップのD＆I（多様性と包摂）〜Viva Tech 2024から&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 24 May 2024 22:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>米国進出支援プログラム「Beyond JAPAN」、今年は4都市に拡大——昨年参加者が体験を披露</title>
+      <link>https://thebridge.jp/2024/05/calling-for-beyond-japan-2024</link>
+      <description>&lt;p&gt;経済産業省と日本貿易振興機構（JETRO）は、昨年からスタートアップのアメリカ市場進出プログラム「Beyond JAPAN」を運営している。これは、JETRO ロサンゼルスオフィスとロサンゼルスに拠点を置く起業家支援 LaunchStarz が共同で運営し、2023年度は、サンディエゴ、ロサンゼルス、オースティンの3都市で実施され、約60社の企業が参加した。 アメリカは各都市毎に強いスタートアップ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/05/calling-for-beyond-japan-2024"&gt;米国進出支援プログラム「Beyond JAPAN」、今年は4都市に拡大——昨年参加者が体験を披露&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 24 May 2024 22:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>イーロン・マスク氏、「ＡＩは私たちの仕事をすべて奪う」</title>
+      <link>https://www.cnn.co.jp/tech/35219312.html?ref=rss</link>
+      <description>米起業家イーロン・マスク氏は２３日、仏パリで開催された「ビバテック　２０２４」の基調講演にリモートで登壇し、人工知能（ＡＩ）は私たちの仕事をすべて奪うことになるが、それは必ずしも悪いことではないと語った。
+
+マスク氏は「おそらく私たちは全員仕事がなくなるだろう」と話し、仕事が「任意」になる未来について語った。「趣味のような仕事をしたければ、仕事をすればいい」「そうでなければ、ＡＩやロボットがあな...&lt;br clear="left" /&gt;&lt;a href="https://www.cnn.co.jp/tech/35219312.html?ref=rss"&gt;&lt;img src="https://www.cnn.co.jp/storage/2024/05/24/cb17e8363606be664b02512355788944/t/768/511/d/2024-05-09t202724z-1157890996-rc2b44am5kwe-rtrmadp-3-usa-sec-musk.jpg" /&gt;&lt;/a&gt;</description>
+    </item>
+    <item>
       <title>杉田雄二さん（株式会社エムステージ 代表取締役 兼 グループCEO）：
 起業の原点は「持続可能な医療の実現」
 健康経営を支援することで日本企業の成長へつなげる</title>
@@ -480,16 +501,6 @@
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
-    </item>
-    <item>
-      <title>有力AI企業が東京に拠点を設けるワケ　「日本は機械学習パラダイス」</title>
-      <link>https://www.itmedia.co.jp/business/articles/2405/24/news038.html</link>
-      <description>ChatGPTを開発したOpenAIが東京に拠点を設けた。そして、著名AI研究者が起業の場所に選んだのも東京だった。ここにきて、なぜ東京がAI業界から注目されるのか。 OpenAIはアジア初のオフィスを東京に開設したと発表。今後、日本語に最適化されたカスタム言語モデルを提供するという。英語以外の言語に最適化されたモデル...</description>
-    </item>
-    <item>
-      <title>イーロン・マスク氏、「ＡＩは私たちの仕事をすべて奪う」</title>
-      <link>https://www.cnn.co.jp/tech/35219312.html</link>
-      <description>米起業家のイーロン・マスク氏が、ＡＩは人間の仕事をすべて奪うことになると発言/Leon Neal/Pool/Reuters via CNN Newsource （ＣＮＮ） 米起業家イーロン・マスク氏は２３日、仏パリで開催された「ビバテック　２０２４」の基調講演にリモートで登壇し、人工知能（ＡＩ）は私たちの仕事をすべて奪うことになるが、それ...</description>
     </item>
   </channel>
 </rss>
