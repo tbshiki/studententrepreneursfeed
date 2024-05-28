@@ -6,14 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 11:36:13 +0900</lastBuildDate>
-    <item>
-      <title>社会人講座 2月開講・31期生がスタート！受講生の声まとめ</title>
-      <link>https://willfu.jp/news/shakaijin_31/</link>
-      <description>&lt;p&gt;2024年2月から社会人31期生がスタートしました！ 以下、受講生の声をまとめました！ 今の仕事に限界を感じ、自分で新しい道を開拓したいと思い受講を決意。 受講を通じて、発展性のある事業を始め、今の月収以上の収入を得たい [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;投稿 &lt;a href="https://willfu.jp/news/shakaijin_31/" rel="nofollow"&gt;社会人講座 2月開講・31期生がスタート！受講生の声まとめ&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
-      <pubDate>Tue, 27 Feb 2024 04:09:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 May 2024 10:56:57 +0900</lastBuildDate>
     <item>
       <title>社会人29期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/shakaijin/shakaijin_29g/</link>
@@ -442,13 +435,6 @@
       <pubDate>Sat, 18 May 2024 08:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>音楽制作の生成AI「Suno」、1億2,500万米ドルを調達——Lightspeed VPなどから</title>
-      <link>https://thebridge.jp/2024/05/suno-raises-125m-to-become-the-chatgpt-of-music-creation</link>
-      <description>&lt;p&gt;音楽 AI の先駆的スタートアップ Suno は21日、最新のラウンドで1億2,500万米ドルという驚異的な資金を調達し、同社を AI 音楽革命の最前線に位置づけると発表した。この大規模な投資は、音楽の創造、消費、収益化の方法を変革するもので、Suno はその先頭に立つ。 ハーバード大学の物理学博士から音楽技術起業家に転身した Mikey Shulman 氏によって設立された Suno は、音楽用...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/05/suno-raises-125m-to-become-the-chatgpt-of-music-creation"&gt;音楽制作の生成AI「Suno」、1億2,500万米ドルを調達——Lightspeed VPなどから&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 22 May 2024 21:30:54 +0000</pubDate>
-    </item>
-    <item>
       <title>保護中: 「甘酒『KOMEGY』を開発。初回製造180本は受講中に完売！フリーランスから脱却し、法人化・起業へ」林優さん（31歳・神奈川県）</title>
       <link>https://willfu.jp/willfulab-2/shakaijin_gr29_h/</link>
       <description>&lt;p&gt;この投稿はパスワードで保護されているため抜粋文はありません。&lt;/p&gt;
@@ -484,11 +470,17 @@
       <pubDate>Fri, 24 May 2024 22:15:49 +0000</pubDate>
     </item>
     <item>
-      <title>イーロン・マスク氏、「ＡＩは私たちの仕事をすべて奪う」</title>
-      <link>https://www.cnn.co.jp/tech/35219312.html?ref=rss</link>
-      <description>米起業家イーロン・マスク氏は２３日、仏パリで開催された「ビバテック　２０２４」の基調講演にリモートで登壇し、人工知能（ＡＩ）は私たちの仕事をすべて奪うことになるが、それは必ずしも悪いことではないと語った。
-
-マスク氏は「おそらく私たちは全員仕事がなくなるだろう」と話し、仕事が「任意」になる未来について語った。「趣味のような仕事をしたければ、仕事をすればいい」「そうでなければ、ＡＩやロボットがあな...&lt;br clear="left" /&gt;&lt;a href="https://www.cnn.co.jp/tech/35219312.html?ref=rss"&gt;&lt;img src="https://www.cnn.co.jp/storage/2024/05/24/cb17e8363606be664b02512355788944/t/768/511/d/2024-05-09t202724z-1157890996-rc2b44am5kwe-rtrmadp-3-usa-sec-musk.jpg" /&gt;&lt;/a&gt;</description>
+      <title>テクノロジーとウェルネスが融合、電子インクタブレット「Daylight Computer」がSFで風変わりな発表会を開催</title>
+      <link>https://thebridge.jp/2024/05/inside-the-strange-launch-of-daylight-computer-and-first-impressions</link>
+      <description>&lt;p&gt;思い浮かべてほしい——過去20年間、車のコマーシャルやロマンチックコメディで私たちを悩ませてきた1990年代の一発屋ワールド・ミュージック・バンド「Rusted Root」のメンバーが、突然、テック起業家として再出発することを決意した。彼らは荷物をまとめてサンフランシスコに引っ越し、コンピュータ会社を立ち上げる。彼らの製品発表会はどのようなものになるだろうか？ まあ、目の前で繰り広げられる光景と同...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/05/inside-the-strange-launch-of-daylight-computer-and-first-impressions"&gt;テクノロジーとウェルネスが融合、電子インクタブレット「Daylight Computer」がSFで風変わりな発表会を開催&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 May 2024 22:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>なぜ、会社員として働くのか？　キャリア自律からワケを考える</title>
+      <link>https://www.itmedia.co.jp/business/articles/2405/28/news012.html</link>
+      <description>会社員として働き続けている理由を考えたことはあるだろうか。独立や起業などさまざまな選択肢がある中で、会社員を選択しているワケをキャリア自立の観点から考えてみる。</description>
+      <pubDate>Tue, 28 May 2024 08:30:00 +0900</pubDate>
     </item>
     <item>
       <title>杉田雄二さん（株式会社エムステージ 代表取締役 兼 グループCEO）：
@@ -508,6 +500,23 @@
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
+    </item>
+    <item>
+      <title>シェアハウス運営会社が入居者対応の100人運動会を開催。外国人も多数参加</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000055.000027970.html</link>
+      <description>[株式会社オークハウス]
+[画像1: https://prtimes.jp/i/27970/55/resize/d27970-55-5b4f375c8f17aa564fbe-4.jpg ]
+
+外国人向けに賃貸住宅を提供する会社として起業したオークハウスは、今年で創業32年めを迎えた。「どうせ住むなら楽しい...</description>
+    </item>
+    <item>
+      <title>ミレイズ、初の客員起業家（EIR）採用で、起業支援を強化</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000022.000041145.html</link>
+      <description>[合同会社Miraise]
+[画像1: https://prtimes.jp/i/41145/22/resize/d41145-22-8abd0819ea13549e20b8-0.png ]
+
+EIR を活用した起業支援とチームの強化
+グローバル、そしてスタートアップでの経験豊かなプロフェッショナル人材をEIRと...</description>
     </item>
   </channel>
 </rss>
