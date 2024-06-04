@@ -6,19 +6,13 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jun 2024 11:40:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:04:41 +0900</lastBuildDate>
     <item>
       <title>社会人29期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/shakaijin/shakaijin_29g/</link>
       <description>&lt;p&gt;社会人29期が卒業！卒業生の声を公開しました！ 立ち上がった事業内容と、卒業生の声をご紹介します！ 【立ち上げた事業事例】 あまざけ製造・販売事業 確定拠出年金・補助金コンサルティングサービス 科学実験教室/学童・個人塾 [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;投稿 &lt;a href="https://willfu.jp/shakaijin/shakaijin_29g/" rel="nofollow"&gt;社会人29期が卒業！卒業生の声を公開しました！&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
       <pubDate>Mon, 18 Mar 2024 02:36:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Command-R+の衝撃! 100Bモデルで本当にこんなことできんの!?ダウンロードしてローカルで実行可能</title>
-      <link>https://note.com/shi3zblog/n/nd2c5ae1374ca</link>
-      <description>&lt;p id="81238f87-2fb9-4e60-85ce-3e29ca3b0629" name="81238f87-2fb9-4e60-85ce-3e29ca3b0629"&gt;Transformerの発明者らが起業したCohereAIがとんでもないモデルを出してきた。この業界では毎週のように「えーー!」ということが起きるのだが、その中でも年に1,2回起きる「えーーーっ」が起きたのでブログでも紹介しておきたい。&lt;/p&gt;&lt;p id="25a42395-fcf9-4917-b78f-2640a8840585" name="25a42395-fcf9-4917-b78f-2640a8840585"&gt;Command-R+(おそらくコマンダープラスと読むのが正しい)というモデルは、わずか100Bで、GPT-4,Claude-3並と言われるモデルだ。しかし、それを主張するだけのモデルなど腐るほどある。だが、実際に触ってみると期待外れということが多かった。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/shi3zblog/n/nd2c5ae1374ca"&gt;続きをみる&lt;/a&gt;</description>
-      <pubDate>Sat, 06 Apr 2024 08:56:16 +0900</pubDate>
     </item>
     <item>
       <title>社会人講座 3月開講・32期生がスタート！受講生の声まとめ</title>
@@ -435,13 +429,6 @@
       <pubDate>Sat, 18 May 2024 08:00:17 +0000</pubDate>
     </item>
     <item>
-      <title>保護中: 「受講中に300pの提案書を作成。結果、4社からコンサルティングを受注」山本賢治さん（32歳・東京都）</title>
-      <link>https://willfu.jp/willfulab-2/shakaijin_gr28_y/</link>
-      <description>&lt;p&gt;この投稿はパスワードで保護されているため抜粋文はありません。&lt;/p&gt;
-&lt;p&gt;投稿 &lt;a href="https://willfu.jp/willfulab-2/shakaijin_gr28_y/" rel="nofollow"&gt;保護中: 「受講中に300pの提案書を作成。結果、4社からコンサルティングを受注」山本賢治さん（32歳・東京都）&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
-      <pubDate>Fri, 24 May 2024 04:25:01 +0000</pubDate>
-    </item>
-    <item>
       <title>ジャフコ、初のシード起業家向けイベントを開催——ジャフコ出身投資家が語った注目領域、生成AI系5社のピッチなど</title>
       <link>https://thebridge.jp/2024/05/jafco-seed-2024</link>
       <description>&lt;p&gt;投資会社のジャフコグループ（東証：8595）は27日、都内でシード起業家などを対象とした、パネルディスカッションとピッチイベントで構成されたイベント「JAFCO SEED 2024」を開催した。開場には概ね200名の起業家、投資家、他のエコシステムビルダーらが集まった。ジャフコグループが開催するこの種のイベントは、今回が初めてとなる。 投資家が増えるにつれ、レイターにフォーカスしていた投資家はミド...&lt;/p&gt;
@@ -476,17 +463,18 @@
       <pubDate>Sat, 01 Jun 2024 22:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>なぜ｢高学歴な人｣は就活で優遇されるのか…大人が｢良い大学￫大企業｣ルートをお勧めする残酷な理由 - 難しい試験を通れる人なら､複雑な仕事もできそう</title>
-      <link>https://president.jp/articles/-/82167</link>
-      <description>給料が高い仕事と低い仕事はどこが違うのか。起業コンサルタント・安田修さんは「給料は需要と供給で決まる。他の人にはできない仕事をする…</description>
-      <pubDate>Mon, 03 Jun 2024 09:00:00 +0900</pubDate>
+      <title>「受講中に300pの提案書を作成。結果、4社からコンサルティングを受注」山本賢治さん（32歳・東京都）</title>
+      <link>https://willfu.jp/willfulab-2/shakaijin_gr28_y/</link>
+      <description>&lt;p&gt;起業の学校 WILLFU 社会人講座 28期生 山本 賢治さん（32歳 東京都在住） ＜概要＞ ・勤務先で5年間、新規事業開発の業務に従事。さらに新規事業開発の方法を学ぶため、起業の学校 WILLFUを受講 ・実践に重き [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;投稿 &lt;a href="https://willfu.jp/willfulab-2/shakaijin_gr28_y/" rel="nofollow"&gt;「受講中に300pの提案書を作成。結果、4社からコンサルティングを受注」山本賢治さん（32歳・東京都）&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Jun 2024 08:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>杉田雄二さん（株式会社エムステージ 代表取締役 兼 グループCEO）：
-起業の原点は「持続可能な医療の実現」
-健康経営を支援することで日本企業の成長へつなげる</title>
-      <link>https://jinjibu.jp/article/detl/topinterview/3454/</link>
-      <description>持続可能な医療の実現を、現場から加速させることをめざしているのが、エムステージグループです。同社を創業し、現在も新たなサービスの拡充に取り組んでいる代表取締役兼グループCEOの杉田雄二さんに、起業に至...</description>
+      <title>社会人講座 5月開講・34期生がスタート！受講生の声まとめ</title>
+      <link>https://willfu.jp/news/shakaijin_34/</link>
+      <description>&lt;p&gt;2024年5月から社会人34期生がスタートしました！ 以下、受講生の声をまとめました！ 会社員という働き方に飽きた。自分で事業リスクをとり意思決定していく働き方に魅力を感じているが効率的に身につけるに独学だと甘え、ノウハ [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;投稿 &lt;a href="https://willfu.jp/news/shakaijin_34/" rel="nofollow"&gt;社会人講座 5月開講・34期生がスタート！受講生の声まとめ&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Jun 2024 09:02:58 +0000</pubDate>
     </item>
     <item>
       <title>江口夏郎さん（株式会社ライトワークス 代表取締役社長）：
@@ -501,12 +489,10 @@
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>7か国から海外スタートアップ等約70名を招聘し、イベントを開催しました！</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000124.000048792.html</link>
-      <description>[福岡市役所]
-[画像1: https://prtimes.jp/i/48792/124/resize/d48792-124-7d923a8c1801836585d2-0.jpg ]
-
-福岡市の都市と自然が調和した環境や食といった魅力をはじめ、実証実験や国家戦略特区の規制緩和、海外起業家向け相談...</description>
+      <title>プライマルキャピタル、起業準備中～創業直後の起業家に向けてエリア最大級のインキュベーションオフィス『Quest 虎ノ門』を虎ノ門三丁目にオープン。</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000002.000095955.html</link>
+      <description>[PRIMAL CAPITAL]
+プライマルキャピタル（東京都港区、代表パートナー 佐々木浩史、以下「当社」）は、2024年5月、起業準備中～創業直後の起業家に向けてエリア最大級となる約140坪のインキュベーションオフィス『Quest 虎ノ門』を...</description>
     </item>
   </channel>
 </rss>
