@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 11:42:28 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 11:01:59 +0900</lastBuildDate>
     <item>
       <title>社会人29期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/shakaijin/shakaijin_29g/</link>
@@ -470,6 +470,13 @@
       <pubDate>Mon, 03 Jun 2024 09:02:58 +0000</pubDate>
     </item>
     <item>
+      <title>経済産業省担当者と完全詳解！「起業家主導型カーブアウト実践のガイダンス」解説イベント【6月14日（金）19:00開催】</title>
+      <link>https://thebridge.jp/2024/06/how-to-curve-out-startups-01booster</link>
+      <description>&lt;p&gt;BRIDGEでは本イベントにメディア協力として参加いたします。下記、イベント概要の転載となりますので、内容に興味ある方はご参加ください。 2024年4月に経済産業省より「起業家主導型カーブアウト実践のガイダンス」が公開されました。 事業会社で研究開発がなされたものの、その事業会社では事業化できない技術を活用してスタートアップを創出していくための考え方や実践方法などを解説されています。本ガイダンスに...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://thebridge.jp/2024/06/how-to-curve-out-startups-01booster"&gt;経済産業省担当者と完全詳解！「起業家主導型カーブアウト実践のガイダンス」解説イベント【6月14日（金）19:00開催】&lt;/a&gt; first appeared on &lt;a href="https://thebridge.jp"&gt;BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 07 Jun 2024 04:45:02 +0000</pubDate>
+    </item>
+    <item>
       <title>江口夏郎さん（株式会社ライトワークス 代表取締役社長）：
 日本の雇用は歴史的な転換点にある
 働き方の変化に対応できる人材開発をICTでサポート</title>
@@ -482,24 +489,15 @@
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>スペースX、新型ロケット打ち上げ　宇宙船帰還に成功 - 日本経済新聞</title>
+      <title>スペースX、新型ロケット「スターシップ」打ち上げ　宇宙船帰還に成功 - 日本経済新聞</title>
       <link>https://www.nikkei.com/article/DGXZQOGN050LN0V00C24A6000000/</link>
       <description>米起業家イーロン・マスク氏が率いる宇宙会社スペースXは米国中部時間6日午前7時50分（日本時間同日午後9時50分）、米南部テキサス州ボカチカから史上最大のロケット「スターシップ」を打ち上げた。地球への宇宙船の帰還に成功した。大型ブースター（推進装置）も洋上への「軟着陸」に成功した。スターシップは米航空宇...</description>
     </item>
     <item>
-      <title>「オールジャパン」「日の丸プロジェクト」がたった1人の天才に惨敗するワケ</title>
-      <link>https://diamond.jp/articles/-/344167</link>
-      <description>マッキンゼーにて自動車、ハイテク、通信等のコンサルティングに従事した後、コーポレートファイナンス・ターンアラウンド業務等を経て、2008年より京都大学イノベーション・マネジメント・サイエンス寄附研究部門教授。現在は京都大学でテクノロジー商業化、起業家育成方法、エコシステムについての研究と、全学アント...</description>
-    </item>
-    <item>
-      <title>「社長に聞く！in WizBiz」にMマートが登場</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000023.000051981.html</link>
-      <description>[株式会社Mマート]
-「社長に聞く！in WizBiz」にMマートが登場します！
-
-Podcastで配信される経営者インタビュー番組で、Mマートが登場します。
-Mマート起業から現在までの村橋の思いや、会社の沿革等深く理解いただけます。
-・メデ...</description>
+      <title>ガイアックス、YMZOPと連携し、山口県の高校生～大学生を対象にした新規事業開発体験プログラムを開催</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000640.000003955.html</link>
+      <description>[ガイアックス]
+起業体験プログラム「起業ゼミ」を運営する株式会社ガイアックス（本社：東京都千代田区、代表執行役社長：上田 祐司、証券コード：3775、以下 ガイアックス）は、株式会社山口フィナンシャルグループ（本社：山...</description>
     </item>
   </channel>
 </rss>
