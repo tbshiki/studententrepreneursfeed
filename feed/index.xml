@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Jun 2024 11:01:59 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 11:41:18 +0900</lastBuildDate>
     <item>
       <title>社会人29期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/shakaijin/shakaijin_29g/</link>
@@ -20,12 +20,6 @@
       <description>&lt;p&gt;2024年3月から社会人32期生がスタートしました！ 以下、受講生の声をまとめました！ 会社員生活が長くなり、会社方針と自分の考えがマッチすることばかりでなく、疑問を持ったままの仕事にやりがいを感じなくなっている。 いつ [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;投稿 &lt;a href="https://willfu.jp/news/shakaijin_32/" rel="nofollow"&gt;社会人講座 3月開講・32期生がスタート！受講生の声まとめ&lt;/a&gt; は &lt;a href="https://willfu.jp" rel="nofollow"&gt;起業/開業を知識ゼロから｜起業塾・起業スクール WILLFU（ウィルフ）&lt;/a&gt; に最初に表示されました。&lt;/p&gt;</description>
       <pubDate>Mon, 08 Apr 2024 01:34:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI時代に起業するということ</title>
-      <link>https://note.com/shi3zblog/n/n22dfac67f756</link>
-      <description>&lt;p id="d34560d4-3be2-40a7-a296-0c488dcebf45" name="d34560d4-3be2-40a7-a296-0c488dcebf45"&gt;生成AI以前と以後で、会社のあり方は決定的に変化していくのだと思う。&lt;br /&gt;たとえば、昨日はとある会議で、「この(AI)サービスの原価はいくらか」という議論が沸き起こった。&lt;/p&gt;&lt;p id="586b1186-7e77-40af-a4a1-58f62771451e" name="586b1186-7e77-40af-a4a1-58f62771451e"&gt;AIサービスなのだから、AIの利用料くらいしかかからないかというとそうでもない。実際、AIを動かすためにはAIそのものにかかるお金以外の人件費がかかる。誰かに売る人の人件費や、システム開発のための人件費や、サポートのための人件費だ。ただ、AIサービスの場合、人件費を極限まで最小化することができる、という点が決定的に違う。&lt;/p&gt;&lt;br /&gt;&lt;a href="https://note.com/shi3zblog/n/n22dfac67f756"&gt;続きをみる&lt;/a&gt;</description>
-      <pubDate>Wed, 10 Apr 2024 07:00:00 +0900</pubDate>
     </item>
     <item>
       <title>起業家を支え続けるCOOが語る、スタートアップのチームコミュニケーション────コーチェット吉田健吾(けんごち)さん</title>
@@ -480,7 +474,7 @@
       <title>江口夏郎さん（株式会社ライトワークス 代表取締役社長）：
 日本の雇用は歴史的な転換点にある
 働き方の変化に対応できる人材開発をICTでサポート</title>
-      <link>https://jinjibu.jp/article/detl/topinterview/3460/</link>
+      <link>http://jinjibu.jp/article/detl/topinterview/3460/</link>
       <description>ラーニング・マネジメント・システム（LMS）の「CAREERSHIP」を開発・提供している株式会社ライトワークスの創業メンバーであり、代表取締役社長の江口夏郎さんに、起業のきっかけ、LMSを主力事業とした経緯、現...</description>
     </item>
     <item>
@@ -489,15 +483,10 @@
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
     </item>
     <item>
-      <title>スペースX、新型ロケット「スターシップ」打ち上げ　宇宙船帰還に成功 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN050LN0V00C24A6000000/</link>
-      <description>米起業家イーロン・マスク氏が率いる宇宙会社スペースXは米国中部時間6日午前7時50分（日本時間同日午後9時50分）、米南部テキサス州ボカチカから史上最大のロケット「スターシップ」を打ち上げた。地球への宇宙船の帰還に成功した。大型ブースター（推進装置）も洋上への「軟着陸」に成功した。スターシップは米航空宇...</description>
-    </item>
-    <item>
-      <title>ガイアックス、YMZOPと連携し、山口県の高校生～大学生を対象にした新規事業開発体験プログラムを開催</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000640.000003955.html</link>
-      <description>[ガイアックス]
-起業体験プログラム「起業ゼミ」を運営する株式会社ガイアックス（本社：東京都千代田区、代表執行役社長：上田 祐司、証券コード：3775、以下 ガイアックス）は、株式会社山口フィナンシャルグループ（本社：山...</description>
+      <title>創業手帳の新規会員登録が過去最高を更新。スタートアップブームが後押し</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000075.000013517.html</link>
+      <description>[創業手帳]
+起業家・経営者を支援する創業手帳株式会社（本社：東京都中央区京橋、代表：大久保幸世）は、2024年5月の新規Web会員登録数が過去最高の6220人に達したことを発表しました。1ヶ月間だけで6220人もの起業家が創業...</description>
     </item>
   </channel>
 </rss>
