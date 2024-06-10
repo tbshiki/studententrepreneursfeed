@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 11:41:18 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 11:48:49 +0900</lastBuildDate>
     <item>
       <title>社会人29期が卒業！卒業生の声を公開しました！</title>
       <link>https://willfu.jp/shakaijin/shakaijin_29g/</link>
@@ -481,12 +481,6 @@
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
-    </item>
-    <item>
-      <title>創業手帳の新規会員登録が過去最高を更新。スタートアップブームが後押し</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000075.000013517.html</link>
-      <description>[創業手帳]
-起業家・経営者を支援する創業手帳株式会社（本社：東京都中央区京橋、代表：大久保幸世）は、2024年5月の新規Web会員登録数が過去最高の6220人に達したことを発表しました。1ヶ月間だけで6220人もの起業家が創業...</description>
     </item>
   </channel>
 </rss>
