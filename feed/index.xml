@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 11:41:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 11:01:59 +0900</lastBuildDate>
     <item>
       <title>社会人講座 3月開講・32期生がスタート！受講生の声まとめ</title>
       <link>https://willfu.jp/news/shakaijin_32/</link>
@@ -451,12 +451,6 @@
       <pubDate>Mon, 03 Jun 2024 09:02:58 +0000</pubDate>
     </item>
     <item>
-      <title>1日16時間没頭も──4年半の「ゲーム廃人」から起業　エンジニアの社長が語る逆転人生</title>
-      <link>https://www.itmedia.co.jp/news/articles/2406/11/news121.html</link>
-      <description>一時は死も意識した状態を脱し、エンジニアとしての技術を習得した後に起業。元“ゲーム廃人”のたどる道のり。</description>
-      <pubDate>Tue, 11 Jun 2024 11:07:00 +0900</pubDate>
-    </item>
-    <item>
       <title>シリコンバレーの日本人起業家コミュニティ「テックハウス」が切り開く未来／ 後藤卓哉 × 大東樹生 × 平田叡佑 × ACV 林智彦【ACVポッドキャスト】</title>
       <link>https://thebridge.jp/2024/06/techhouse-accentureventures</link>
       <description>&lt;p&gt;本稿はアクセンチュア・ベンチャーズが配信するポッドキャストからの転載。音声内容をテキストにまとめて掲載いたします アクセンチュア・ベンチャーズ （ACV）がスタートアップと手を取り合い、これまでにないオープンイノベーションのヒントを探るポッドキャスト・シリーズです。旬のスタートアップをゲストにお招きし、カジュアルなトークから未来を一緒に発見する場を創っていきます。 シリコンバレーにある若手の日本人...&lt;/p&gt;
@@ -481,20 +475,6 @@
       <title>学生起業で絶対に失敗しない方法｜shi3z</title>
       <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
       <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
-    </item>
-    <item>
-      <title>奈良市成長志向起業家育成プロジェクト「NARA STAR PROJECT」8期生募集プレイベント開催</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000282.000036429.html</link>
-      <description>[奈良市役所]
-[画像1: https://prtimes.jp/i/36429/282/resize/d36429-282-434aff259e016be14f79-0.png ]
-
-奈良市は、新たな産業を生み出し、成長志向を持ちながら継続的に事業を運営していく起業家・経営者を育成する「NARA S...</description>
-    </item>
-    <item>
-      <title>「今度は私が、守るからね。」父の日に、お父さんのげんきに想いを馳せる。親世代の自立をサポートする革新的な見守りシステム「きづなろ」の社会実装を加速化させるクラウドファンディングが始動。</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000147.000057654.html</link>
-      <description>[株式会社ボーンレックス]
-「WakuWaku the World」をミッションに掲げ、挑戦者が挑戦者であり続けられる世界を目指す株式会社ボーンレックス（東京都千代田区、代表取締役 室岡拓也　以下、当社）は、個人起業家や成長中のスタートアップ、...</description>
     </item>
   </channel>
 </rss>
