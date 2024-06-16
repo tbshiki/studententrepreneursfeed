@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 11:01:59 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 11:39:29 +0900</lastBuildDate>
     <item>
       <title>社会人講座 3月開講・32期生がスタート！受講生の声まとめ</title>
       <link>https://willfu.jp/news/shakaijin_32/</link>
@@ -468,13 +468,31 @@
       <title>江口夏郎さん（株式会社ライトワークス 代表取締役社長）：
 日本の雇用は歴史的な転換点にある
 働き方の変化に対応できる人材開発をICTでサポート</title>
-      <link>http://jinjibu.jp/article/detl/topinterview/3460/</link>
+      <link>https://jinjibu.jp/article/detl/topinterview/3460/</link>
       <description>ラーニング・マネジメント・システム（LMS）の「CAREERSHIP」を開発・提供している株式会社ライトワークスの創業メンバーであり、代表取締役社長の江口夏郎さんに、起業のきっかけ、LMSを主力事業とした経緯、現...</description>
     </item>
     <item>
-      <title>学生起業で絶対に失敗しない方法｜shi3z</title>
-      <link>https://note.com/shi3zblog/n/n806ba1ccc6bf</link>
-      <description>iUの中村伊知哉先生が、「うちの学生の目標は起業率100%だが大半が就職してしまった」と嘆いていらしたので、「学生起業は基本的に失敗しないように教育することができる」という話をして、「そんな方法があるなら教えてくれ」と言われたのだがしばらく書くのを忘れていた。今日は暑くて出かけたくないので書く。 学生起...</description>
+      <title>Acall代表の長沼斉寿が、世界的経営コンサルタントの大前研一氏が主催する「向研会」定例勉強会に講師として登壇</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000074.000025368.html</link>
+      <description>[Acall株式会社]
+[画像1: https://prtimes.jp/i/25368/74/resize/d25368-74-fef22e7dc4305e1afc66-0.png ]
+
+ 向研会とは
+
+
+　向研会は、新時代のビジネスモデルの創造を志す企業経営者で構成され、経営コンサルタント、起業家であ...</description>
+    </item>
+    <item>
+      <title>ＯＫＪＣＴ、京都知恵産業創造の森などと連携し「起業家の本音」に迫るイベントを7月に大阪梅田で開催</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000010.000114531.html</link>
+      <description>[株式会社OK Junction]
+[画像1: https://prtimes.jp/i/114531/10/resize/d114531-10-b6ed475c568611a80b19-0.jpg ]
+
+起業家の本音～スタートアップやVCを創業したワケ～ イベントページ
+https://open.kyoto/calendar/10054
+
+
+　この起業...</description>
     </item>
   </channel>
 </rss>
