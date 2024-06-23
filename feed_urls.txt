@@ -168,3 +168,4 @@ https://willfu.jp/pickup/idea_perfectver/rss
 https://willfu.jp/pickup/idea_perfectver/feed
 https://willfu.jp/pickup/entreladies/rss
 https://willfu.jp/pickup/entreladies/feed
+https://note.com/taimee/rss

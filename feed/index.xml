@@ -6,7 +6,7 @@
     <description>This FEED is a compilation of student entrepreneurship information. We wish you success.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Jun 2024 11:24:37 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 11:26:13 +0900</lastBuildDate>
     <item>
       <title>社会人講座 3月開講・32期生がスタート！受講生の声まとめ</title>
       <link>https://willfu.jp/news/shakaijin_32/</link>
@@ -512,6 +512,22 @@
 働き方の変化に対応できる人材開発をICTでサポート</title>
       <link>https://jinjibu.jp/article/detl/topinterview/3460/</link>
       <description>ラーニング・マネジメント・システム（LMS）の「CAREERSHIP」を開発・提供している株式会社ライトワークスの創業メンバーであり、代表取締役社長の江口夏郎さんに、起業のきっかけ、LMSを主力事業とした経緯、現...</description>
+    </item>
+    <item>
+      <title>大学在学中に起業した僕が思う、プロダクト開発とPMFについて｜小川嶺</title>
+      <link>https://note.com/taimee/n/nd31e7376a89e</link>
+      <description>こんにちは、タイミーの小川です。 前回は、僕がタイミー創業前に経験した最大の挫折について 書いたのですがたくさんのスキ⤴︎をいただくことができ、少しは役に立てたのかなと思い嬉しかったです！ 週一回くらいの更新頻度かもしれないですが、毎週木曜日ごろを目処に更新を続けていきたいと思ってますので、フォローや...</description>
+    </item>
+    <item>
+      <title>新たな事業がここから生まれる！朝倉未来とヒカルが仕掛ける起業リアリティー番組「Nontitle シーズン4」2024年6月27日(木)放送決定</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000013.000091904.html</link>
+      <description>[株式会社サムライパートナーズ]
+起業リアリティーショー「Nontitle」とは？
+
+
+[画像1: https://prtimes.jp/i/91904/13/resize/d91904-13-22a9215264a9b05a3e14-0.jpg ]
+
+『Nontitle』は起業を志す若者たちが、3か月間ひとつ屋根の下で共同生活を...</description>
     </item>
   </channel>
 </rss>
