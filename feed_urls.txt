@@ -169,3 +169,5 @@ https://willfu.jp/pickup/idea_perfectver/feed
 https://willfu.jp/pickup/entreladies/rss
 https://willfu.jp/pickup/entreladies/feed
 https://note.com/taimee/rss
+https://willfu.jp/news/shakaijin_35/rss
+https://willfu.jp/news/shakaijin_35/feed
